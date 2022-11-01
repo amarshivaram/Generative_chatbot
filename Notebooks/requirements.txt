@@ -1,0 +1,7 @@
+torch
+transformers
+sentencepiece
+ohmeow-blurr==0.0.20
+datasets
+bert-score
+fastai
